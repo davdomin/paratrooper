@@ -1,1 +1,5 @@
-node_modules/\ndist/\nserver.log\n*.log\n.DS_Store\n.env
+node_modules/
+server.log
+*.log
+.DS_Store
+.env
